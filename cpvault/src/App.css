@@ -1,0 +1,80 @@
+.paratag{
+  font-family: Poppins;
+  font-size: 20px;
+  margin-top: 105px;
+  margin-left: 357px;
+  width: 154px;
+  height:12px;
+  text-align:center;
+  line-height: 18px;
+  font-weight: 300;
+
+}
+.picdiv{
+  position:absolute;
+  bottom: 0;
+  left:0;
+}
+.img{
+  object-fit: fill;
+  width: 1360px;
+  height: 768px;
+}
+.cpa{
+  font-family:Poppins;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 84px;
+  width: 310.22px;
+  height:30.35px;
+  margin-top:10.07px;
+  margin-left:357px;
+  color: #BF797E;
+}
+.gpwyb{
+  font-family: Poppins;
+  font-weight: 500;
+  font-size:24px;
+  line-height: 36px;
+  color:#3C6C71;
+  width:405px;
+  height:106px;
+  padding-bottom: 10px;
+  margin-left:357px;
+  
+}
+.loginbox {
+  width: 325px;
+  height: 405px;
+  margin-top: -200px;
+  margin-left: 1083.27px;
+  border: none;
+  border-radius: 14.04px;
+  background-color: #ffffff;
+  box-shadow: 0 0 2px #8A8989;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginboxtext {
+  font-family: Montserrat;
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  color: #1E6262;
+  margin-top: -200px;
+
+}
+.textbox {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size:20px;
+  line-height: 28.07px;
+  margin-top: -150px;
+  margin-left: -110px;
+  width: 115.41px;
+  height:19.49px;
+  color:#1E6262;
+
+}
